@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mood Music Recommender</title>
+    <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+    <header>
+        <div class="header-left">
+            <h1>Mood Music Recommender</h1>
+        </div>
+        <nav class="header-right">
+            <button id="show-recommendation-form" class="nav-button active">Submit Mood</button>
+            <button id="show-favorites" class="nav-button">Favorites</button>
+        </nav>
+    </header>
+
+    <main>
+        <section id="mood-input-section" class="active-section">
+            <h2>How's your mood?</h2>
+            <form id="mood-form">
+                <select id="mood-select" name="mood">
+                    <option value="">-- Select Your Mood --</option>
+                    <option value="happy">Happy 😊</option>
+                    <option value="sad">Sad 😢</option>
+                    <option value="chill">Chill 😌</option>
+                    <option value="angry">Angry 😠</option>
+                    <option value="romantic">Romantic ❤️</option>
+                </select>
+                <button type="submit">Get Recommendations</button>
+            </form>
+
+            <div id="recommendations-container">
+                <h3>Your Music Recommendations</h3>
+                <div id="recommendations-list" class="music-grid">
+                    </div>
+            </div>
+        </section>
+
+        <section id="favorites-section" class="hidden-section">
+            <h2>Your Favorite Songs</h2>
+            <div class="filter-controls">
+                Filter by Mood:
+                <select id="favorites-mood-filter">
+                    <option value="all">All</option>
+                    <option value="happy">Happy</option>
+                    <option value="sad">Sad</option>
+                    <option value="chill">Chill</option>
+                    <option value="angry">Angry</option>
+                    <option value="romantic">Romantic</option>
+                </select>
+            </div>
+            <div id="favorites-list" class="music-grid">
+                </div>
+        </section>
+    </main>
+
+    <script src="static/js/script.js"></script>
+</body>
+</html>

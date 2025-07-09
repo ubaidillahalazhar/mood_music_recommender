@@ -1,0 +1,1002 @@
+{
+    "history": [
+        {
+            "mood": "happy",
+            "timestamp": "2025-07-09T17:08:19.157Z",
+            "recommendations": [
+                {
+                    "title": "Walking on Sunshine",
+                    "artist": "Katrina & The Waves",
+                    "url": "https://www.youtube.com/watch?v=iCEWdG_jK0k",
+                    "quote": "\"When you move beyond your fear, you feel free.\" - Spencer Johnson"
+                },
+                {
+                    "title": "Don't Stop Me Now",
+                    "artist": "Queen",
+                    "url": "https://www.youtube.com/watch?v=HgzGwrmLg8E",
+                    "quote": "\"When you move beyond your fear, you feel free.\" - Spencer Johnson"
+                },
+                {
+                    "title": "Happy",
+                    "artist": "Pharrell Williams",
+                    "url": "https://www.youtube.com/watch?v=y6Sxv-sUYtM",
+                    "quote": "\"When you move beyond your fear, you feel free.\" - Spencer Johnson"
+                }
+            ]
+        },
+        {
+            "mood": "sad",
+            "timestamp": "2025-07-09T17:09:29.671Z",
+            "recommendations": [
+                {
+                    "title": "Hurt",
+                    "artist": "Johnny Cash",
+                    "url": "https://www.youtube.com/watch?v=Sm5X2jH0n24",
+                    "quote": "\"You must find the place inside yourself where nothing is impossible.\" - Les Brown"
+                },
+                {
+                    "title": "Everybody Hurts",
+                    "artist": "R.E.M.",
+                    "url": "https://www.youtube.com/watch?v=5akbM-yY35c",
+                    "quote": "\"You must find the place inside yourself where nothing is impossible.\" - Les Brown"
+                },
+                {
+                    "title": "Someone Like You",
+                    "artist": "Adele",
+                    "url": "https://www.youtube.com/watch?v=hLQl3WcQWKQ",
+                    "quote": "\"You must find the place inside yourself where nothing is impossible.\" - Les Brown"
+                }
+            ]
+        },
+        {
+            "mood": "sad",
+            "timestamp": "2025-07-09T17:12:24.078Z",
+            "recommendations": [
+                {
+                    "title": "Hurt",
+                    "artist": "Johnny Cash",
+                    "url": "https://www.youtube.com/watch?v=Sm5X2jH0n24",
+                    "quote": "\"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.\" - Nikola Tesla"
+                },
+                {
+                    "title": "Everybody Hurts",
+                    "artist": "R.E.M.",
+                    "url": "https://www.youtube.com/watch?v=5akbM-yY35c",
+                    "quote": "\"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.\" - Nikola Tesla"
+                },
+                {
+                    "title": "Someone Like You",
+                    "artist": "Adele",
+                    "url": "https://www.youtube.com/watch?v=hLQl3WcQWKQ",
+                    "quote": "\"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe.\" - Nikola Tesla"
+                }
+            ]
+        },
+        {
+            "mood": "sad",
+            "timestamp": "2025-07-09T17:15:07.389Z",
+            "recommendations": [
+                {
+                    "title": "Hurt",
+                    "artist": "Johnny Cash",
+                    "url": "https://www.youtube.com/watch?v=Sm5X2jH0n24",
+                    "quote": "\"Life is growth. If we stop growing, technically and spiritually, we are as good as dead.\" - Morihei Ueshiba"
+                },
+                {
+                    "title": "Everybody Hurts",
+                    "artist": "R.E.M.",
+                    "url": "https://www.youtube.com/watch?v=5akbM-yY35c",
+                    "quote": "\"Life is growth. If we stop growing, technically and spiritually, we are as good as dead.\" - Morihei Ueshiba"
+                },
+                {
+                    "title": "Someone Like You",
+                    "artist": "Adele",
+                    "url": "https://www.youtube.com/watch?v=hLQl3WcQWKQ",
+                    "quote": "\"Life is growth. If we stop growing, technically and spiritually, we are as good as dead.\" - Morihei Ueshiba"
+                }
+            ]
+        },
+        {
+            "mood": "happy",
+            "timestamp": "2025-07-09T17:16:02.606Z",
+            "recommendations": [
+                {
+                    "title": "Walking on Sunshine",
+                    "artist": "Katrina & The Waves",
+                    "url": "https://www.youtube.com/watch?v=iCEWdG_jK0k",
+                    "quote": "\"The health of nations is more important than the wealth of nations.\" - Will Rogers"
+                },
+                {
+                    "title": "Don't Stop Me Now",
+                    "artist": "Queen",
+                    "url": "https://www.youtube.com/watch?v=HgzGwrmLg8E",
+                    "quote": "\"The health of nations is more important than the wealth of nations.\" - Will Rogers"
+                },
+                {
+                    "title": "Happy",
+                    "artist": "Pharrell Williams",
+                    "url": "https://www.youtube.com/watch?v=y6Sxv-sUYtM",
+                    "quote": "\"The health of nations is more important than the wealth of nations.\" - Will Rogers"
+                }
+            ]
+        },
+        {
+            "mood": "romantic",
+            "timestamp": "2025-07-09T17:18:18.311Z",
+            "recommendations": [
+                {
+                    "title": "Perfect",
+                    "artist": "Ed Sheeran",
+                    "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+                    "quote": "\"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.\" - Naval Ravikant"
+                },
+                {
+                    "title": "At Last",
+                    "artist": "Etta James",
+                    "url": "https://www.youtube.com/watch?v=S-tJ-0TfXJ4",
+                    "quote": "\"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.\" - Naval Ravikant"
+                }
+            ]
+        },
+        {
+            "mood": "sad",
+            "timestamp": "2025-07-09T17:19:45.355Z",
+            "recommendations": [
+                {
+                    "title": "Hurt",
+                    "artist": "Johnny Cash",
+                    "url": "https://www.youtube.com/watch?v=Sm5X2jH0n24",
+                    "quote": "\"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.\" - John Wooden"
+                },
+                {
+                    "title": "Everybody Hurts",
+                    "artist": "R.E.M.",
+                    "url": "https://www.youtube.com/watch?v=5akbM-yY35c",
+                    "quote": "\"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.\" - John Wooden"
+                },
+                {
+                    "title": "Someone Like You",
+                    "artist": "Adele",
+                    "url": "https://www.youtube.com/watch?v=hLQl3WcQWKQ",
+                    "quote": "\"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability.\" - John Wooden"
+                }
+            ]
+        },
+        {
+            "mood": "chill",
+            "timestamp": "2025-07-09T17:23:27.211Z",
+            "recommendations": [
+                {
+                    "title": "Lo-fi Study Beats",
+                    "artist": "Various Artists",
+                    "url": "https://www.youtube.com/watch?v=hHW1oY2SC6w",
+                    "quote": "\"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.\" - Johann Wolfgang von Goethe"
+                },
+                {
+                    "title": "Weightless",
+                    "artist": "Marconi Union",
+                    "url": "https://www.youtube.com/watch?v=UfcAVejslrU",
+                    "quote": "\"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.\" - Johann Wolfgang von Goethe"
+                },
+                {
+                    "title": "Come Away With Me",
+                    "artist": "Norah Jones",
+                    "url": "https://www.youtube.com/watch?v=Qy9_rn1x0l0",
+                    "quote": "\"To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking.\" - Johann Wolfgang von Goethe"
+                }
+            ]
+        },
+        {
+            "mood": "happy",
+            "timestamp": "2025-07-09T17:29:17.109Z",
+            "recommendations": [
+                {
+                    "title": "Walking on Sunshine",
+                    "artist": "Katrina & The Waves",
+                    "url": "https://www.youtube.com/watch?v=iCEWdG_jK0k",
+                    "quote": "\"You must be willing to do what others won't do, to have what others won't have.\" - Les Brown"
+                },
+                {
+                    "title": "Don't Stop Me Now",
+                    "artist": "Queen",
+                    "url": "https://www.youtube.com/watch?v=HgzGwrmLg8E",
+                    "quote": "\"You must be willing to do what others won't do, to have what others won't have.\" - Les Brown"
+                },
+                {
+                    "title": "Happy",
+                    "artist": "Pharrell Williams",
+                    "url": "https://www.youtube.com/watch?v=y6Sxv-sUYtM",
+                    "quote": "\"You must be willing to do what others won't do, to have what others won't have.\" - Les Brown"
+                }
+            ]
+        },
+        {
+            "mood": "sad",
+            "timestamp": "2025-07-09T17:29:25.981Z",
+            "recommendations": [
+                {
+                    "title": "Hurt",
+                    "artist": "Johnny Cash",
+                    "url": "https://www.youtube.com/watch?v=Sm5X2jH0n24",
+                    "quote": "\"Knowledge is learning something everyday. Wisdom is letting go of something everyday.\" - Unknown"
+                },
+                {
+                    "title": "Everybody Hurts",
+                    "artist": "R.E.M.",
+                    "url": "https://www.youtube.com/watch?v=5akbM-yY35c",
+                    "quote": "\"Knowledge is learning something everyday. Wisdom is letting go of something everyday.\" - Unknown"
+                },
+                {
+                    "title": "Someone Like You",
+                    "artist": "Adele",
+                    "url": "https://www.youtube.com/watch?v=hLQl3WcQWKQ",
+                    "quote": "\"Knowledge is learning something everyday. Wisdom is letting go of something everyday.\" - Unknown"
+                }
+            ]
+        },
+        {
+            "mood": "happy",
+            "timestamp": "2025-07-09T17:30:17.509Z",
+            "recommendations": [
+                {
+                    "title": "Love Story",
+                    "artist": "Taylor Swift",
+                    "url": "https://www.youtube.com/watch?v=aXzTwv4-g2A",
+                    "quote": "\"Change will not come if we wait for some other person, or if we wait for some other time.\" - Barack Obama"
+                },
+                {
+                    "title": "Cantik",
+                    "artist": "Tiara Andini & Arsy Widianto",
+                    "url": "https://www.youtube.com/watch?v=Fj-y57y-N6U",
+                    "quote": "\"The purpose of life is the life of purpose.\" - Robin Sharma"
+                },
+                {
+                    "title": "Siapkah Kau 'Tuk Jatuh Cinta Lagi",
+                    "artist": "Hivi!",
+                    "url": "https://www.youtube.com/watch?v=2e6i-f9fL3M",
+                    "quote": "\"If you are unable to find the truth right where you are, where else do you expect to find it?\" - Dogen"
+                },
+                {
+                    "title": "Walking on Sunshine",
+                    "artist": "Katrina & The Waves",
+                    "url": "https://www.youtube.com/watch?v=iCEWdG_jK0k",
+                    "quote": "\"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything.\" - Paramahansa Yogananda"
+                },
+                {
+                    "title": "Don't Stop Me Now",
+                    "artist": "Queen",
+                    "url": "https://www.youtube.com/watch?v=HgzGwrmLg8E",
+                    "quote": "\"You cannot change your destination overnight but you can change your direction overnight.\" - Jim Rohn"
+                },
+                {
+                    "title": "Happy",
+                    "artist": "Pharrell Williams",
+                    "url": "https://www.youtube.com/watch?v=y6Sxv-sUYtM",
+                    "quote": "\"We don't stop playing because we grow old; we grow old because we stop playing.\" - George Bernard Shaw"
+                }
+            ]
+        },
+        {
+            "mood": "sad",
+            "timestamp": "2025-07-09T17:31:20.158Z",
+            "recommendations": [
+                {
+                    "title": "Selamat (Selamat Tinggal)",
+                    "artist": "Virgoun & Audy",
+                    "url": "https://www.youtube.com/watch?v=vV1p2fM_k8g",
+                    "quote": "\"Confidence is contagious. So is lack of confidence.\" - Vince Lombardi"
+                },
+                {
+                    "title": "Someone Like You",
+                    "artist": "Adele",
+                    "url": "https://www.youtube.com/watch?v=hLQl3WcQWKQ",
+                    "quote": "\"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.\" - Sonia Ricotti"
+                },
+                {
+                    "title": "Happier",
+                    "artist": "Olivia Rodrigo",
+                    "url": "https://www.youtube.com/watch?v=Kz7GzFw310U",
+                    "quote": "\"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.\" - Yanni"
+                },
+                {
+                    "title": "Hurt",
+                    "artist": "Johnny Cash",
+                    "url": "https://www.youtube.com/watch?v=Sm5X2jH0n24",
+                    "quote": "\"Knowledge has to be improved, challenged, and increased constantly, or it vanishes.\" - Peter Drucker"
+                },
+                {
+                    "title": "Everybody Hurts",
+                    "artist": "R.E.M.",
+                    "url": "https://www.youtube.com/watch?v=5akbM-yY35c",
+                    "quote": "\"One loyal friend is worth ten thousand relatives.\" - Euripides"
+                },
+                {
+                    "title": "Tears in Heaven",
+                    "artist": "Eric Clapton",
+                    "url": "https://www.youtube.com/watch?v=joW222T-b2Q",
+                    "quote": "\"Meditate. It won't be fun but it will surface what you need to deal with.\" - Naval Ravikant"
+                }
+            ]
+        },
+        {
+            "mood": "chill",
+            "timestamp": "2025-07-09T17:32:04.787Z",
+            "recommendations": [
+                {
+                    "title": "Lo-fi Study Beats",
+                    "artist": "Various Artists",
+                    "url": "https://www.youtube.com/watch?v=hHW1oY2SC6w",
+                    "quote": "\"Do anything, but let it produce joy.\" - Walt Whitman"
+                },
+                {
+                    "title": "Weightless",
+                    "artist": "Marconi Union",
+                    "url": "https://www.youtube.com/watch?v=UfcAVejslrU",
+                    "quote": "\"Others have seen what is and asked why. I have seen what could be and asked why not\" - Pablo Picasso"
+                },
+                {
+                    "title": "Come Away With Me",
+                    "artist": "Norah Jones",
+                    "url": "https://www.youtube.com/watch?v=Qy9_rn1x0l0",
+                    "quote": "\"The only thing new in the world is the history you do not know.\" - Harry S. Truman"
+                },
+                {
+                    "title": "Island In The Sun",
+                    "artist": "Weezer",
+                    "url": "https://www.youtube.com/watch?v=0C3zgYW_FAM",
+                    "quote": "\"Nothing is really work unless you would rather be doing something else. \" - James Matthew Barrie"
+                },
+                {
+                    "title": "Sunday Morning",
+                    "artist": "Maroon 5",
+                    "url": "https://www.youtube.com/watch?v=S-tJ-0TfXJ4",
+                    "quote": "\"The great use of life is to spend it for something that will outlast it.\" - William James"
+                }
+            ]
+        },
+        {
+            "mood": "romantic",
+            "timestamp": "2025-07-09T17:34:13.463Z",
+            "recommendations": [
+                {
+                    "title": "Paper Rings",
+                    "artist": "Taylor Swift",
+                    "url": "https://www.youtube.com/watch?v=y_xS-s_B6uQ",
+                    "quote": "\"You must be willing to do what others won't do, to have what others won't have.\" - Les Brown"
+                },
+                {
+                    "title": "Die With A Smile",
+                    "artist": "Lady Gaga & Bruno Mars",
+                    "url": "https://www.youtube.com/watch?v=E_PjY1r1L6Y",
+                    "quote": "\"Life is to be fortified by many friendships. To love, and to be loved, is the greatest happiness of existence.\" - Sydney Smith"
+                },
+                {
+                    "title": "I Love You 3000",
+                    "artist": "Stephanie Poetri",
+                    "url": "https://www.youtube.com/watch?v=tQ0yjYUFKAE",
+                    "quote": "\"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality.\" - James Cameron"
+                },
+                {
+                    "title": "Perfect",
+                    "artist": "Ed Sheeran",
+                    "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+                    "quote": "\"It's just a bad day, not a bad life.\" - Mary Engelbreit"
+                },
+                {
+                    "title": "At Last",
+                    "artist": "Etta James",
+                    "url": "https://www.youtube.com/watch?v=S-tJ-0TfXJ4",
+                    "quote": "\"It's not what we do once in a while that shapes our lives, but what we do consistently.\" - Tony Robbins"
+                }
+            ]
+        },
+        {
+            "mood": "happy",
+            "timestamp": "2025-07-09T17:36:26.795Z",
+            "recommendations": [
+                {
+                    "title": "Love Story",
+                    "artist": "Taylor Swift",
+                    "url": "https://www.youtube.com/watch?v=y3_D-i4L_b0",
+                    "quote": "\"Nothing can survive without food. Everything we consume acts either to heal us or to poison us.\" - Thich Nhat Hanh"
+                },
+                {
+                    "title": "Cantik",
+                    "artist": "Tiara Andini & Arsy Widianto",
+                    "url": "https://www.youtube.com/watch?v=Fj-y57y-N6U",
+                    "quote": "\"I am thankful to all who said no to me. It is because of them that I'm doing it myself.\" - Albert Einstein"
+                },
+                {
+                    "title": "Siapkah Kau 'Tuk Jatuh Cinta Lagi",
+                    "artist": "Hivi!",
+                    "url": "https://www.youtube.com/watch?v=2e6i-f9fL3M",
+                    "quote": "\"Only when I fall do I get up again.\" - Vincent van Gogh"
+                },
+                {
+                    "title": "Walking on Sunshine",
+                    "artist": "Katrina & The Waves",
+                    "url": "https://www.youtube.com/watch?v=iCEWdG_jK0k",
+                    "quote": "\"Give so much away people insist on paying you.\" - Jack Butcher"
+                },
+                {
+                    "title": "Don't Stop Me Now",
+                    "artist": "Queen",
+                    "url": "https://www.youtube.com/watch?v=HgzGwrmLg8E",
+                    "quote": "\"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company. \" - George Washington"
+                },
+                {
+                    "title": "Happy",
+                    "artist": "Pharrell Williams",
+                    "url": "https://www.youtube.com/watch?v=y6Sxv-sUYtM",
+                    "quote": "\"Coming together is a beginning, staying together is progress, and working together is success. \" - Henry Ford"
+                },
+                {
+                    "title": "Good Day Sunshine",
+                    "artist": "The Beatles",
+                    "url": "https://www.youtube.com/watch?v=y2s1tD2p-2U",
+                    "quote": "\"We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.\" - Emily Dickinson"
+                },
+                {
+                    "title": "Uptown Funk",
+                    "artist": "Mark Ronson ft. Bruno Mars",
+                    "url": "https://www.youtube.com/watch?v=OPf0YbXq6S0",
+                    "quote": "\"Duty makes us do things well, but love makes us do them beautifully.  \" - Zig Ziglar"
+                },
+                {
+                    "title": "Can't Stop The Feeling!",
+                    "artist": "Justin Timberlake",
+                    "url": "https://www.youtube.com/watch?v=ru0K8uYEZWw",
+                    "quote": "\"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.\" - James Allen"
+                },
+                {
+                    "title": "Shake It Off",
+                    "artist": "Taylor Swift",
+                    "url": "https://www.youtube.com/watch?v=nfWlot6h_JM",
+                    "quote": "\"Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.\" - Rumi"
+                },
+                {
+                    "title": "I Wanna Dance with Somebody",
+                    "artist": "Whitney Houston",
+                    "url": "https://www.youtube.com/watch?v=eH3giaIzONA",
+                    "quote": "\"It's necessary to get the losers out of your life if you want to live your dream.\" - Les Brown"
+                }
+            ]
+        },
+        {
+            "mood": "sad",
+            "timestamp": "2025-07-09T17:37:46.547Z",
+            "recommendations": [
+                {
+                    "title": "Selamat (Selamat Tinggal)",
+                    "artist": "Virgoun & Audy",
+                    "url": "https://www.youtube.com/watch?v=vV1p2fM_k8g",
+                    "quote": "\"Mistakes are always forgivable, if one has the courage to admit them. \" - Bruce Lee"
+                },
+                {
+                    "title": "Someone Like You",
+                    "artist": "Adele",
+                    "url": "https://www.youtube.com/watch?v=hLQl3WcQWKQ",
+                    "quote": "\"Show up even when you don't want to show up.\" - Steve Harvey"
+                },
+                {
+                    "title": "Happier",
+                    "artist": "Olivia Rodrigo",
+                    "url": "https://www.youtube.com/watch?v=Kz7GzFw310U",
+                    "quote": "\"In peace, sons bury their fathers. In war, fathers bury their sons. \" - Herodotus"
+                },
+                {
+                    "title": "Hurt",
+                    "artist": "Johnny Cash",
+                    "url": "https://www.youtube.com/watch?v=Sm5X2jH0n24",
+                    "quote": "\"On the other side of the clouds is a bright blue sky.\" - Unknown"
+                },
+                {
+                    "title": "Everybody Hurts",
+                    "artist": "R.E.M.",
+                    "url": "https://www.youtube.com/watch?v=5akbM-yY35c",
+                    "quote": "\"The heart wants what it wants. There's no logic. \" - Woody Allen"
+                },
+                {
+                    "title": "Tears in Heaven",
+                    "artist": "Eric Clapton",
+                    "url": "https://www.youtube.com/watch?v=joW222T-b2Q",
+                    "quote": "\"If you need inspiration, don't do it.\" - Elon Musk"
+                },
+                {
+                    "title": "Fix You",
+                    "artist": "Coldplay",
+                    "url": "https://www.youtube.com/watch?v=k4D8x3L0bK4",
+                    "quote": "\"If you want to know what God thinks about money just look at the people He gives it to.\" - Alexander Pope"
+                },
+                {
+                    "title": "Yesterday",
+                    "artist": "The Beatles",
+                    "url": "https://www.youtube.com/watch?v=N6f-2x_J-cE",
+                    "quote": "\"Life and the simple beauty of it is too good to pass up.\" - Christopher McCandless"
+                },
+                {
+                    "title": "Nothing Compares 2 U",
+                    "artist": "Sinead O'Connor",
+                    "url": "https://www.youtube.com/watch?v=0-sqv2x8z-I",
+                    "quote": "\"All our knowledge has its origins in our perceptions.\" - Leonardo da Vinci"
+                }
+            ]
+        },
+        {
+            "mood": "romantic",
+            "timestamp": "2025-07-09T17:39:12.430Z",
+            "recommendations": [
+                {
+                    "title": "Paper Rings",
+                    "artist": "Taylor Swift",
+                    "url": "https://www.youtube.com/watch?v=y_xS-s_B6uQ",
+                    "quote": "\"It's your life-but only if you make it so.\" - Eleanor Roosevelt"
+                },
+                {
+                    "title": "Die With A Smile",
+                    "artist": "Lady Gaga & Bruno Mars",
+                    "url": "https://www.youtube.com/watch?v=E_PjY1r1L6Y",
+                    "quote": "\"For fast-acting relief try slowing down.\" - Lily Tomlin"
+                },
+                {
+                    "title": "I Love You 3000",
+                    "artist": "Stephanie Poetri",
+                    "url": "https://www.youtube.com/watch?v=tQ0yjYUFKAE",
+                    "quote": "\"Only one thing is ever guaranteed, that is that you will definitely not achieve the goal if you don't take the shot.\" - Wayne Gretzky"
+                },
+                {
+                    "title": "Perfect",
+                    "artist": "Ed Sheeran",
+                    "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+                    "quote": "\"Wishing to be friends is quick work, but friendship is a slow ripening fruit.\" - Aristotle"
+                },
+                {
+                    "title": "At Last",
+                    "artist": "Etta James",
+                    "url": "https://www.youtube.com/watch?v=S-tJ-0TfXJ4",
+                    "quote": "\"The way to change others' minds is with affection, and not anger.\" - Dalai Lama"
+                },
+                {
+                    "title": "Can't Help Falling in Love",
+                    "artist": "Elvis Presley",
+                    "url": "https://www.youtube.com/watch?v=vGJTaP6iOx8",
+                    "quote": "\"Before preparing to improve the world, first look around your own home three times. \" - Chinese Proverb"
+                },
+                {
+                    "title": "Unchained Melody",
+                    "artist": "The Righteous Brothers",
+                    "url": "https://www.youtube.com/watch?v=qiiy2dQys-0",
+                    "quote": "\"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you.\" - Sonia Ricotti"
+                },
+                {
+                    "title": "Stand By Me",
+                    "artist": "Ben E. King",
+                    "url": "https://www.youtube.com/watch?v=hwZNL7QVJjE",
+                    "quote": "\"When you judge another, you do not define them, you define yourself\" - Wayne Dyer"
+                },
+                {
+                    "title": "Thinking Out Loud",
+                    "artist": "Ed Sheeran",
+                    "url": "https://www.youtube.com/watch?v=lp-EO5I60KA",
+                    "quote": "\"The smallest of actions is always better than the noblest of intentions.\" - Robin Sharma"
+                },
+                {
+                    "title": "All of Me",
+                    "artist": "John Legend",
+                    "url": "https://www.youtube.com/watch?v=4502d9zJ03g",
+                    "quote": "\"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.\" - Celestine Chua"
+                },
+                {
+                    "title": "Crazy Little Thing Called Love",
+                    "artist": "Queen",
+                    "url": "https://www.youtube.com/watch?v=zO6D_BAuYCI",
+                    "quote": "\"You can tell more about a person by what he says about others than you can by what others say about him.\" - Audrey Hepburn"
+                }
+            ]
+        },
+        {
+            "mood": "happy",
+            "timestamp": "2025-07-09T17:41:51.849Z",
+            "recommendations": [
+                {
+                    "title": "Love Story",
+                    "artist": "Taylor Swift",
+                    "url": "https://www.youtube.com/watch?v=y3_D-i4L_b0",
+                    "quote": "\"It's what you do in the present that will redeem the past and thereby change the future.\" - Paulo Coelho"
+                },
+                {
+                    "title": "Cantik",
+                    "artist": "Tiara Andini & Arsy Widianto",
+                    "url": "https://www.youtube.com/watch?v=Fj-y57y-N6U",
+                    "quote": "\"Sometimes it is harder to deprive oneself of a pain than of a pleasure.\" - F. Scott Fitzgerald"
+                },
+                {
+                    "title": "Siapkah Kau 'Tuk Jatuh Cinta Lagi",
+                    "artist": "Hivi!",
+                    "url": "https://www.youtube.com/watch?v=2e6i-f9fL3M",
+                    "quote": "\"We are like islands in the sea, separate on the surface but connected in the deep.\" - William James"
+                },
+                {
+                    "title": "Walking on Sunshine",
+                    "artist": "Katrina & The Waves",
+                    "url": "https://www.youtube.com/watch?v=iCEWdG_jK0k",
+                    "quote": "\"Presents are made for the pleasure of who gives them, not the merits of who receives them.\" - Carlos Ruiz Zafon"
+                },
+                {
+                    "title": "Don't Stop Me Now",
+                    "artist": "Queen",
+                    "url": "https://www.youtube.com/watch?v=HgzGwrmLg8E",
+                    "quote": "\"Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.\" - Naval Ravikant"
+                },
+                {
+                    "title": "Happy",
+                    "artist": "Pharrell Williams",
+                    "url": "https://www.youtube.com/watch?v=y6Sxv-sUYtM",
+                    "quote": "\"Never settle for the crumbs of life.\" - Og Mandino"
+                },
+                {
+                    "title": "Good Day Sunshine",
+                    "artist": "The Beatles",
+                    "url": "https://www.youtube.com/watch?v=y2s1tD2p-2U",
+                    "quote": "\"The people who succeed are irrationally passionate about something.\" - Naval Ravikant"
+                },
+                {
+                    "title": "Uptown Funk",
+                    "artist": "Mark Ronson ft. Bruno Mars",
+                    "url": "https://www.youtube.com/watch?v=OPf0YbXq6S0",
+                    "quote": "\"Being wrong brings the opportunity for growth.\" - Mark Manson"
+                },
+                {
+                    "title": "Can't Stop The Feeling!",
+                    "artist": "Justin Timberlake",
+                    "url": "https://www.youtube.com/watch?v=ru0K8uYEZWw",
+                    "quote": "\"It is useless to meet revenge with revenge; it will heal nothing.\" - J.R.R. Tolkien"
+                },
+                {
+                    "title": "Shake It Off",
+                    "artist": "Taylor Swift",
+                    "url": "https://www.youtube.com/watch?v=nfWlot6h_JM",
+                    "quote": "\"It's not how much we give but how much love we put into giving.\" - Mother Teresa"
+                },
+                {
+                    "title": "I Wanna Dance with Somebody",
+                    "artist": "Whitney Houston",
+                    "url": "https://www.youtube.com/watch?v=eH3giaIzONA",
+                    "quote": "\"Some people feel the rain. Others just get wet. \" - Bob Dylan"
+                }
+            ]
+        },
+        {
+            "mood": "romantic",
+            "timestamp": "2025-07-09T17:41:58.261Z",
+            "recommendations": [
+                {
+                    "title": "Paper Rings",
+                    "artist": "Taylor Swift",
+                    "url": "https://www.youtube.com/watch?v=y_xS-s_B6uQ",
+                    "quote": "\"If you can change your mind, you can change your life.\" - William James"
+                },
+                {
+                    "title": "Die With A Smile",
+                    "artist": "Lady Gaga & Bruno Mars",
+                    "url": "https://www.youtube.com/watch?v=E_PjY1r1L6Y",
+                    "quote": "\"Happiness is the spiritual experience of living every minute with love, grace and gratitude.\" - Denis Waitley"
+                },
+                {
+                    "title": "I Love You 3000",
+                    "artist": "Stephanie Poetri",
+                    "url": "https://www.youtube.com/watch?v=tQ0yjYUFKAE",
+                    "quote": "\"Time doesn't heal emotional pain, you need to learn how to let go.\" - Roy T. Bennett"
+                },
+                {
+                    "title": "Perfect",
+                    "artist": "Ed Sheeran",
+                    "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+                    "quote": "\"They say love is the best investment; the more you give, the more you get in return.\" - Audrey Hepburn"
+                },
+                {
+                    "title": "At Last",
+                    "artist": "Etta James",
+                    "url": "https://www.youtube.com/watch?v=S-tJ-0TfXJ4",
+                    "quote": "\"Everybody needs a passion. That's what keeps life interesting.\" - Betty White"
+                },
+                {
+                    "title": "Can't Help Falling in Love",
+                    "artist": "Elvis Presley",
+                    "url": "https://www.youtube.com/watch?v=vGJTaP6iOx8",
+                    "quote": "\"Stop wasting time looking at someone else's reality while doing nothing about yours.\" - Steve Harvey"
+                },
+                {
+                    "title": "Unchained Melody",
+                    "artist": "The Righteous Brothers",
+                    "url": "https://www.youtube.com/watch?v=qiiy2dQys-0",
+                    "quote": "\"An intelligence test sometimes shows a man how smart he would have been not to have taken it.\" - Laurence J. Peter"
+                },
+                {
+                    "title": "Stand By Me",
+                    "artist": "Ben E. King",
+                    "url": "https://www.youtube.com/watch?v=hwZNL7QVJjE",
+                    "quote": "\"High thoughts must have high language.\" - Aristophanes"
+                },
+                {
+                    "title": "Thinking Out Loud",
+                    "artist": "Ed Sheeran",
+                    "url": "https://www.youtube.com/watch?v=lp-EO5I60KA",
+                    "quote": "\"The cost of leadership is self-interest.\" - Simon Sinek"
+                },
+                {
+                    "title": "All of Me",
+                    "artist": "John Legend",
+                    "url": "https://www.youtube.com/watch?v=4502d9zJ03g",
+                    "quote": "\"You are free, and that is why you are lost. \" - Franz Kafka"
+                },
+                {
+                    "title": "Crazy Little Thing Called Love",
+                    "artist": "Queen",
+                    "url": "https://www.youtube.com/watch?v=zO6D_BAuYCI",
+                    "quote": "\"Trust your instincts: my first reaction is almost invariably the right one.  \" - Estee Lauder"
+                }
+            ]
+        },
+        {
+            "mood": "romantic",
+            "timestamp": "2025-07-09T17:43:07.449Z",
+            "recommendations": [
+                {
+                    "title": "Paper Rings",
+                    "artist": "Taylor Swift",
+                    "url": "https://youtu.be/8zdg-pDF10g?si=HhtjPK2HRgjFnipo",
+                    "quote": "\"Cleverness is not wisdom.\" - Euripides"
+                },
+                {
+                    "title": "Die With A Smile",
+                    "artist": "Lady Gaga & Bruno Mars",
+                    "url": "https://www.youtube.com/watch?v=E_PjY1r1L6Y",
+                    "quote": "\"We all give up great expectations along the way.\" - Carlos Ruiz Zafon"
+                },
+                {
+                    "title": "I Love You 3000",
+                    "artist": "Stephanie Poetri",
+                    "url": "https://www.youtube.com/watch?v=tQ0yjYUFKAE",
+                    "quote": "\"Play your part in life, but never forget that it is only a role.\" - Paramahansa Yogananda"
+                },
+                {
+                    "title": "Perfect",
+                    "artist": "Ed Sheeran",
+                    "url": "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
+                    "quote": "\"Time stays long enough for anyone who will use it.\" - Leonardo da Vinci"
+                },
+                {
+                    "title": "At Last",
+                    "artist": "Etta James",
+                    "url": "https://www.youtube.com/watch?v=S-tJ-0TfXJ4",
+                    "quote": "\"Happiness is not something ready made. It comes from your own actions.\" - Dalai Lama"
+                },
+                {
+                    "title": "Can't Help Falling in Love",
+                    "artist": "Elvis Presley",
+                    "url": "https://www.youtube.com/watch?v=vGJTaP6iOx8",
+                    "quote": "\"Whatever your heart clings to and confides in, that is really your God.\" - Martin Luther"
+                },
+                {
+                    "title": "Unchained Melody",
+                    "artist": "The Righteous Brothers",
+                    "url": "https://www.youtube.com/watch?v=qiiy2dQys-0",
+                    "quote": "\"There are no shortcuts to any place worth going. \" - Beverly Sills"
+                },
+                {
+                    "title": "Stand By Me",
+                    "artist": "Ben E. King",
+                    "url": "https://www.youtube.com/watch?v=hwZNL7QVJjE",
+                    "quote": "\"The best thing to hold onto in life is each other.\" - Audrey Hepburn"
+                },
+                {
+                    "title": "Thinking Out Loud",
+                    "artist": "Ed Sheeran",
+                    "url": "https://www.youtube.com/watch?v=lp-EO5I60KA",
+                    "quote": "\"The attempt to escape from pain, is what creates more pain.\" - Gabor Mate"
+                },
+                {
+                    "title": "All of Me",
+                    "artist": "John Legend",
+                    "url": "https://www.youtube.com/watch?v=4502d9zJ03g",
+                    "quote": "\"Dream big and dare to fail.\" - Norman Vaughan"
+                },
+                {
+                    "title": "Crazy Little Thing Called Love",
+                    "artist": "Queen",
+                    "url": "https://www.youtube.com/watch?v=zO6D_BAuYCI",
+                    "quote": "\"If you aim at nothing, you will hit it every time.  \" - Zig Ziglar"
+                }
+            ]
+        },
+        {
+            "mood": "happy",
+            "timestamp": "2025-07-09T18:27:26.198Z",
+            "recommendations": [
+                {
+                    "title": "Love Story",
+                    "artist": "Taylor Swift",
+                    "url": "https://youtu.be/8xg3vE8Ie_E?si=ANah2S5dxLuntc8T",
+                    "quote": "\"Turn the pain into power.\" - Unknown"
+                },
+                {
+                    "title": "Cantik",
+                    "artist": "Tiara Andini & Arsy Widianto",
+                    "url": "https://youtu.be/QMpbUCoW65M?si=312tnWqd8E0_8dFb",
+                    "quote": "\"Great ones are willing to get burned time and again as they sharpen their swords in the fire.\" - Josh Waitzkin"
+                },
+                {
+                    "title": "Siapkah Kau 'Tuk Jatuh Cinta Lagi",
+                    "artist": "Hivi!",
+                    "url": "https://youtu.be/kX1O93X77d4?si=Da6cSiNYIjsDlmU8",
+                    "quote": "\"Perfectionism is simply putting a limit on your future.\" - John Eliot"
+                },
+                {
+                    "title": "Steal My Girl",
+                    "artist": "One Direction",
+                    "url": "https://youtu.be/UpsKGvPjAgw?si=VumKk_E06oDxAzig",
+                    "quote": "\"Life has the name of life, but in reality it is death.\" - Heraclitus"
+                },
+                {
+                    "title": "The Lazy Song",
+                    "artist": "Bruno Mars",
+                    "url": "https://youtu.be/fLexgOxsZu0?si=dFDtGr_bTt8FlNhh",
+                    "quote": "\"Art, like morality, consists of drawing the line somewhere.\" - Gilbert Chesterton"
+                },
+                {
+                    "title": "Shake It Off",
+                    "artist": "Taylor Swift",
+                    "url": "https://youtu.be/nfWlot6h_JM?si=o5Q2ULus2ELpdfxt",
+                    "quote": "\"We have a duty to maintain the light of consciousness to make sure it continues into the future.\" - Elon Musk"
+                }
+            ]
+        },
+        {
+            "mood": "happy",
+            "timestamp": "2025-07-09T18:47:57.408Z",
+            "recommendations": [
+                {
+                    "title": "Love Story",
+                    "artist": "Taylor Swift",
+                    "url": "https://youtu.be/8xg3vE8Ie_E?si=ANah2S5dxLuntc8T",
+                    "quote": "\"To accomplish big things, I am convinced you must first dream big dreams.\" - Conrad Hilton"
+                },
+                {
+                    "title": "Cantik",
+                    "artist": "Tiara Andini & Arsy Widianto",
+                    "url": "https://youtu.be/QMpbUCoW65M?si=312tnWqd8E0_8dFb",
+                    "quote": "\"Don't ever save anything for a special occasion. Being alive is the special occasion.\" - Mary Engelbreit"
+                },
+                {
+                    "title": "Siapkah Kau 'Tuk Jatuh Cinta Lagi",
+                    "artist": "Hivi!",
+                    "url": "https://youtu.be/kX1O93X77d4?si=Da6cSiNYIjsDlmU8",
+                    "quote": "\"There are more people who wish to be loved than there are who are willing to love. \" - Nicolas Chamfort"
+                },
+                {
+                    "title": "Steal My Girl",
+                    "artist": "One Direction",
+                    "url": "https://youtu.be/UpsKGvPjAgw?si=VumKk_E06oDxAzig",
+                    "quote": "\"It's better to stand by someone's side than by yourself.\" - Jack London"
+                },
+                {
+                    "title": "The Lazy Song",
+                    "artist": "Bruno Mars",
+                    "url": "https://youtu.be/fLexgOxsZu0?si=dFDtGr_bTt8FlNhh",
+                    "quote": "\"Peace if possible, truth at all costs.\" - Martin Luther"
+                },
+                {
+                    "title": "Shake It Off",
+                    "artist": "Taylor Swift",
+                    "url": "https://youtu.be/nfWlot6h_JM?si=o5Q2ULus2ELpdfxt",
+                    "quote": "\"He who has overcome his fears will truly be free.\" - Aristotle"
+                }
+            ]
+        },
+        {
+            "mood": "romantic",
+            "timestamp": "2025-07-09T18:48:09.341Z",
+            "recommendations": [
+                {
+                    "title": "Paper Rings",
+                    "artist": "Taylor Swift",
+                    "url": "https://youtu.be/8zdg-pDF10g?si=HhtjPK2HRgjFnipo",
+                    "quote": "\"Greatness comes from living with purpose and passion.\" - Ralph Marston"
+                },
+                {
+                    "title": "Die With A Smile",
+                    "artist": "Lady Gaga & Bruno Mars",
+                    "url": "https://youtu.be/kPa7bsKwL-c?si=gHIzXgRqFktNtqkG",
+                    "quote": "\"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.\" - Steve Harvey"
+                },
+                {
+                    "title": "I Love You 3000",
+                    "artist": "Stephanie Poetri",
+                    "url": "https://youtu.be/cPkE0IbDVs4?si=FeZqQKC4r0Usb3FL",
+                    "quote": "\"A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.\" - Roy T. Bennett"
+                },
+                {
+                    "title": "Perfect",
+                    "artist": "Ed Sheeran",
+                    "url": "https://youtu.be/2Vv-BfVoq4g?si=qJrEa5Hqp-WYZNtk",
+                    "quote": "\"A mountain never yields to the wind no matter how strong it is.\" - Zen Proverb"
+                },
+                {
+                    "title": "cardigan",
+                    "artist": "Taylor Swift",
+                    "url": "https://youtu.be/K-a8s8OLBSE?si=J7KEKXm2R4U2BmNh",
+                    "quote": "\"Circumstances rule men; men do not rule circumstances. \" - Herodotus"
+                },
+                {
+                    "title": "A Thousand Years",
+                    "artist": "Christina Putri",
+                    "url": "https://youtu.be/rtOvBOTyX00?si=lVg1dJMp_20RCWMN",
+                    "quote": "\"It is not titles that honour men, but men that honour titles.\" - Niccolo Machiavelli"
+                }
+            ]
+        },
+        {
+            "mood": "happy",
+            "timestamp": "2025-07-09T19:31:38.275Z",
+            "recommendations": [
+                {
+                    "title": "Love Story",
+                    "artist": "Taylor Swift",
+                    "url": "https://youtu.be/8xg3vE8Ie_E?si=ANah2S5dxLuntc8T",
+                    "quote": "\"The secret of change is to focus all your energy not on fighting the old, but on building the new.\" - Dan Millman"
+                },
+                {
+                    "title": "Cantik",
+                    "artist": "Tiara Andini & Arsy Widianto",
+                    "url": "https://youtu.be/QMpbUCoW65M?si=312tnWqd8E0_8dFb",
+                    "quote": "\"The single most powerful asset we all have is our mind.\" - Robert Kiyosaki"
+                },
+                {
+                    "title": "Siapkah Kau 'Tuk Jatuh Cinta Lagi",
+                    "artist": "Hivi!",
+                    "url": "https://youtu.be/kX1O93X77d4?si=Da6cSiNYIjsDlmU8",
+                    "quote": "\"We have to live life with a sense of urgency so not a minute is wasted.\" - Les Brown"
+                },
+                {
+                    "title": "Steal My Girl",
+                    "artist": "One Direction",
+                    "url": "https://youtu.be/UpsKGvPjAgw?si=VumKk_E06oDxAzig",
+                    "quote": "\"Love is the absence of judgment.\" - Dalai Lama"
+                },
+                {
+                    "title": "The Lazy Song",
+                    "artist": "Bruno Mars",
+                    "url": "https://youtu.be/fLexgOxsZu0?si=dFDtGr_bTt8FlNhh",
+                    "quote": "\"The best way to understanding is a few good examples.\" - Isaac Newton"
+                },
+                {
+                    "title": "Shake It Off",
+                    "artist": "Taylor Swift",
+                    "url": "https://youtu.be/nfWlot6h_JM?si=o5Q2ULus2ELpdfxt",
+                    "quote": "\"The farther backward you can look, the farther forward you are likely to see.\" - Winston Churchill"
+                }
+            ]
+        }
+    ],
+    "favorites": [
+        {
+            "title": "Selamat (Selamat Tinggal)",
+            "artist": "Virgoun & Audy",
+            "url": "https://www.youtube.com/watch?v=vV1p2fM_k8g",
+            "mood": "sad"
+        },
+        {
+            "title": "Love Story",
+            "artist": "Taylor Swift",
+            "url": "https://youtu.be/8xg3vE8Ie_E?si=ANah2S5dxLuntc8T",
+            "mood": "happy"
+        },
+        {
+            "title": "Perfect",
+            "artist": "Ed Sheeran",
+            "url": "https://youtu.be/2Vv-BfVoq4g?si=qJrEa5Hqp-WYZNtk",
+            "mood": "romantic"
+        }
+    ]
+}
